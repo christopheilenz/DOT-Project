@@ -1,3 +1,8 @@
+How to configure create-react-app to use Tailwind CSS:
+https://blog.logrocket.com/create-react-app-and-tailwindcss/
+
+
+index.css:
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
